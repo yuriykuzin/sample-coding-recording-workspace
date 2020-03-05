@@ -1,0 +1,20 @@
+{
+  "name": "sample-coding-recording-workspace",
+  "version": "1.0.0",
+  "description": "Sample workspace for Coding Recording vscode extension",
+  "main": "test.js",
+  "scripts": {
+    "extension-install-mac": "/Applications/'Visual Studio Code.app'/Contents/Resources/app/bin/code --install-extension coding-recording-0.0.1.vsix",
+    "extension-uninstall-mac": "/Applications/'Visual Studio Code.app'/Contents/Resources/app/bin/code --uninstall-extension coding-recording-0.0.1.vsix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriykuzin/sample-coding-recording-workspace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriykuzin/sample-coding-recording-workspace/issues"
+  },
+  "homepage": "https://github.com/yuriykuzin/sample-coding-recording-workspace#readme"
+}
